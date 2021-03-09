@@ -1,0 +1,17 @@
+ville(A).
+ville(B).
+ville(C).
+ville(D).
+ville(E).
+ville(F).
+ville(G).
+ville(H).
+route(A,B).
+route(A,C).
+route(C,D).
+route(D,E).
+route(D,F).
+route(D,G).
+route(D,H).
+ecole(B).
+ecole(D).
